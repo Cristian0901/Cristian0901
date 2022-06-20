@@ -9,4 +9,4 @@
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg"></code>  <code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/gitpodio/gitpodio-icon.svg"></code>
 
 ### My OS are...
-<code><img width="5%" src="https://commons.wikipedia.org/wiki/File:Manjaro-logo.svg"></code> <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> 
+<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg"></code> <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> 
