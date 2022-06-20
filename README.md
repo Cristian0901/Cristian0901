@@ -17,6 +17,16 @@
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg"></code> <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> 
 
 ### My stats...
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian0901&count_private=true&show_icons=true&theme=vue-dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian0901&layout=default&theme=vue-dark&show_icons=true&count_private=true" /></a> |
 | ------------- | ------------- |
+
+### I can speak in...
+
+|Spanish|<code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/venezue.svg"></code>|
+|----|----|
+|Portuguese|<code><img width="10%" src="https://github.com/seanherron/Flag-Webicons/blob/master/flags/portugal.svg"></code>|
+|English|<code><img width="10%" src="https://github.com/seanherron/Flag-Webicons/blob/master/flags/united-kingdom.svg"></code>|
+|French|<code><img width="10%" src="https://github.com/seanherron/Flag-Webicons/blob/master/flags/france.svg"></code>|
+
+### I will learn...
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg"></code> <code><img width="5%" src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg"></code> <code><img width="5%" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp.svg"></code> 
