@@ -5,7 +5,7 @@
 
 
 ### My knowledge about programming...
-|<code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code> <code><img width="5%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code> <!--<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>-->| <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-official.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>|
+|<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code> <code><img width="10%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code> <!--<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>-->| <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-official.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>|
 |-----|-----|
 
 
