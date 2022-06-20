@@ -16,5 +16,4 @@
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg"></code> <code><img width="5%" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"></code> <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code> 
 
 ### My stats...
-![Cristian Guilarte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian0901&count_private=true&show_icons=true&theme=vue-dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian0901&layout=default&theme=vue-dark&show_icons=true&count_private=true)
+![Cristian Guilarte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cristian0901&count_private=true&show_icons=true&theme=vue-dark) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian0901&layout=default&theme=vue-dark&show_icons=true&count_private=true)
