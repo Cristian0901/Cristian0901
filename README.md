@@ -19,6 +19,7 @@
 ### My stats...
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristian0901&count_private=true&show_icons=true&theme=vue-dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian0901&layout=default&theme=vue-dark&show_icons=true&count_private=true" /></a> |
 | ------------- | ------------- |
+
 <a href="https://activity-graph.herokuapp.com/"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Cristian0901&theme=react-dark" /></a>
 
 ### I can speak in...
